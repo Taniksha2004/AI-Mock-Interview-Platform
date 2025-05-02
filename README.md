@@ -1,6 +1,6 @@
-# 🎓 EduVoice AI – AI Voice Assistant for Learning
+# 🎓 AI Mock Interview Platform
 
-EduVoice AI is a smart voice assistant built to help students learn better by speaking! It answers questions, gives feedback, and creates study notes — using AI and voice.
+It is a smart voice assistant built to help students learn better by speaking! It answers questions, gives feedback, and creates study notes — using AI and voice.
 
 ## ✨ Features
 
